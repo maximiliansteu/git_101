@@ -1,0 +1,18 @@
+body {
+	font-size: x-large;
+	margin: 0;
+}
+
+
+.banner {
+	display: flex;
+	background: lightgrey;
+	margin: 20px;
+
+}
+
+.card-image {
+	border-radius: 30px;
+	margin: 20px;
+
+}
